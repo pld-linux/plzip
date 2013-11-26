@@ -1,0 +1,14 @@
+--- plzip-1.1/doc/plzip.texinfo.orig	2013-09-17 01:33:31.000000000 +0200
++++ plzip-1.1/doc/plzip.texinfo	2013-11-26 19:52:50.618188292 +0100
+@@ -9,9 +9,9 @@
+ @set UPDATED 17 September 2013
+ @set VERSION 1.1
+ 
+-@dircategory Data Compression
++@dircategory File utilities:
+ @direntry
+-* Plzip: (plzip).               Parallel compressor compatible with lzip
++* Plzip: (plzip).			Parallel compressor compatible with lzip
+ @end direntry
+ 
+ 
