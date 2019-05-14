@@ -1,14 +1,14 @@
---- plzip-1.5/doc/plzip.texi.orig	2013-09-17 01:33:31.000000000 +0200
-+++ plzip-1.5/doc/plzip.texi	2013-11-26 19:52:50.618188292 +0100
+--- plzip-1.8/doc/plzip.texi.orig	2019-05-14 21:00:01.258143945 +0200
++++ plzip-1.8/doc/plzip.texi	2019-05-14 21:00:55.314517763 +0200
 @@ -9,9 +9,9 @@
- @set UPDATED 17 September 2013
- @set VERSION 1.1
+ @set UPDATED 5 January 2019
+ @set VERSION 1.8
  
 -@dircategory Data Compression
 +@dircategory File utilities:
  @direntry
--* Plzip: (plzip).               Parallel compressor compatible with lzip
-+* Plzip: (plzip).			Parallel compressor compatible with lzip
+-* Plzip: (plzip).               Massively parallel implementation of lzip
++* Plzip: (plzip).			Massively parallel implementation of lzip
  @end direntry
  
  
