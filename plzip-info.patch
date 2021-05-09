@@ -1,8 +1,8 @@
---- plzip-1.8/doc/plzip.texi.orig	2019-05-14 21:00:01.258143945 +0200
-+++ plzip-1.8/doc/plzip.texi	2019-05-14 21:00:55.314517763 +0200
+--- plzip-1.9/doc/plzip.texi.orig	2021-01-04 16:29:09.000000000 +0100
++++ plzip-1.9/doc/plzip.texi	2021-05-09 17:07:26.786336672 +0200
 @@ -9,9 +9,9 @@
- @set UPDATED 5 January 2019
- @set VERSION 1.8
+ @set UPDATED 3 January 2021
+ @set VERSION 1.9
  
 -@dircategory Data Compression
 +@dircategory File utilities:
