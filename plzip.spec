@@ -1,12 +1,12 @@
 Summary:	Parallel LZMA file compressor
 Summary(pl.UTF-8):	Równoległy kompresor plików oparty na algorytmie LZMA
 Name:		plzip
-Version:	1.10
+Version:	1.11
 Release:	1
 License:	GPL v3+
 Group:		Applications/Archiving
 Source0:	http://download.savannah.gnu.org/releases/lzip/plzip/%{name}-%{version}.tar.lz
-# Source0-md5:	ef0b56666817e3ed9dd423132d1c94be
+# Source0-md5:	23c3fa3eb0b2755bd474ba7b583e2a5a
 Patch0:		%{name}-info.patch
 URL:		http://savannah.nongnu.org/projects/lzip/
 BuildRequires:	libstdc++-devel

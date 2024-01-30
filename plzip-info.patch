@@ -1,8 +1,8 @@
---- plzip-1.10/doc/plzip.texi.orig	2022-06-25 16:40:25.281823103 +0200
-+++ plzip-1.10/doc/plzip.texi	2022-06-25 16:41:05.424938963 +0200
+--- plzip-1.11/doc/plzip.texi.orig	2024-01-30 18:18:49.134019180 +0100
++++ plzip-1.11/doc/plzip.texi	2024-01-30 18:19:28.637138507 +0100
 @@ -9,9 +9,9 @@
- @set UPDATED 24 January 2022
- @set VERSION 1.10
+ @set UPDATED 21 January 2024
+ @set VERSION 1.11
  
 -@dircategory Compression
 +@dircategory File utilities:
